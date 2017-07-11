@@ -1,0 +1,5 @@
+<apex:page standardController="Case">
+  <apex:form >
+      <apex:inputField value="{!case.Origin}"/>
+  </apex:form>
+</apex:page>

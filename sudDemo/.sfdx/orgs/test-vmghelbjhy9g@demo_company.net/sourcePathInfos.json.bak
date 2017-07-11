@@ -1,0 +1,297 @@
+[
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1499761229538,
+            "changeTime": 1499761229538,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1499761229538,
+            "changeTime": 1499761229538,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499762642342,
+            "changeTime": 1499762642342,
+            "contentHash": "5f82321c4c29ef78733abe08833b3d1b6430a068"
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1499761971666,
+            "changeTime": 1499761971666,
+            "contentHash": "4eada66a2f5f08fb509e596fd7942f8698cefe71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1499761971672,
+            "changeTime": 1499761971672,
+            "contentHash": "86ad213dccaac3ef0b1b419bfab19ba00c6d3c5c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight\\SudDemoLight.cmp",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight\\SudDemoLight.cmp",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1499761971666,
+            "changeTime": 1499761971666,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight\\SudDemoLight.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight\\SudDemoLight.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1499761971668,
+            "changeTime": 1499761971668,
+            "contentHash": "bf164c3fdf74fd784cdc5256de0378283c07bb30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight\\SudDemoLight.css",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight\\SudDemoLight.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1499761971671,
+            "changeTime": 1499761971671,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight\\SudDemoLightController.js",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight\\SudDemoLightController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1499761971669,
+            "changeTime": 1499761971669,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight\\SudDemoLightHelper.js",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight\\SudDemoLightHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1499761971669,
+            "changeTime": 1499761971669,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight\\SudDemoLightRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\aura\\SudDemoLight\\SudDemoLightRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1499761971672,
+            "changeTime": 1499761971672,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1499761698924,
+            "changeTime": 1499761698924,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\flexipages\\Demo1.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\flexipages\\Demo1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 870,
+            "modifiedTime": 1499762642340,
+            "changeTime": 1499762642340,
+            "contentHash": "cfde474573f1832884b19ccec59e23399958e32c"
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\tabs\\Demo1.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\tabs\\Demo1.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 304,
+            "modifiedTime": 1499762642342,
+            "changeTime": 1499762642342,
+            "contentHash": "398cb238685d70853555cddec354e8ede291e1af"
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4332,
+            "modifiedTime": 1499762642343,
+            "changeTime": 1499762642343,
+            "contentHash": "ed76eb9933210e348010d7b8d1daaccea90515cb"
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 16102,
+            "modifiedTime": 1499762642345,
+            "changeTime": 1499762642345,
+            "contentHash": "67a543964c8559f4621d57acba59ec90af6098e1"
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3994,
+            "modifiedTime": 1499762642346,
+            "changeTime": 1499762642346,
+            "contentHash": "fff48f0eb00704639f918172cd001d460bd0b8ed"
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3994,
+            "modifiedTime": 1499762642348,
+            "changeTime": 1499762642348,
+            "contentHash": "fff48f0eb00704639f918172cd001d460bd0b8ed"
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499762642340,
+            "changeTime": 1499762642340,
+            "contentHash": "d6c7cb59f9ab7f576ab54f24268d612f28ea0cbc"
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499762642341,
+            "changeTime": 1499762642341,
+            "contentHash": "5de4eb2d67da1c151d7319ee22be4f287749ef97"
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\sfdx2\\sudDemo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499762642348,
+            "changeTime": 1499762642348,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
